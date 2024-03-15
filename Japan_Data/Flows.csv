@@ -1,0 +1,11 @@
+﻿L,FLOW A->B,Node_From,Node_To,Node_Name_From,Node_Name_To,Existing_Cap_MW,Price_new_MW,Price per mile per MW,Type,Length (km),length miles 
+1,Hokkaido->Tohoku,1,6,Hokkaido,Tohoku,900,959233,2813,DC,550,341
+2,Tohoku->Tokyo,6,2,Tohoku,Tokyo,5700,507508.75,2338.75,AC,350,217
+3,Tokyo->Chubu,2,3,Tokyo,Chubu,1200,269915.8375,2024.875,AC,215,133.3
+4,Chubu->Hokuriku,3,7,Chubu,Hokuriku,300,874536.97,3398.9,DC,415,257.3
+5,Chubu->Kansai,3,8,Chubu,Kansai,2500,326468.75,2106.25,AC,250,155
+6,Kansai->Hokuriku,8,7,Kansai,Hokuriku,1900,360370.35,2152.75,AC,270,167.4
+7,Kansai->Shikoku,8,9,Kansai,Shikoku,1400,599176.68,4201.8,DC,230,142.6
+8,Kansai->Chugoku,8,4,Kansai,Chugoku,4200,507508.75,2338.75,AC,350,217
+9,Shikoku->Chugoku,9,4,Shikoku,Chugoku,1200,246760,1990,AC,200,124
+10,Chugoku->Kyushu,4,5,Chugoku,Kyushu,2600,246760,1990,AC,200,124

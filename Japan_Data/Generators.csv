@@ -1,0 +1,6 @@
+G,Description,FixedOM,FixedCost,VarCost,Name
+1,Geothermal,130000,563500,0,Geo
+2,Onshore wind,40000,91000,0,Wind
+3,Tracking solar PV,15000,50850,0,Solar
+4,Thermal,169000,415568,95.6,Thermal
+5,Nuclear,101000,502000,2,Nuclear
